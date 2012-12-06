@@ -2,8 +2,8 @@
 
 /**
  *
- * @see http://code.google.com/p/dabase
- * @author Barbushin Sergey http://www.linkedin.com/in/barbushin
+ * @see https://github.com/barbushin/dabase
+ * @author Barbushin Sergey http://linkedin.com/in/barbushin
  *
  */
 abstract class Primage_Proxy_Controller_Abstract extends Primage_Proxy_Handler {
