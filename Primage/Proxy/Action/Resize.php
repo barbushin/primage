@@ -2,7 +2,7 @@
 
 /**
  *
- * @see https://github.com/barbushin/dabase
+ * @see https://github.com/barbushin/primage
  * @author Barbushin Sergey http://linkedin.com/in/barbushin
  *
  */

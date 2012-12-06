@@ -2,7 +2,7 @@
 
 /**
  *
- * @see http://code.google.com/p/dabase
+ * @see http://code.google.com/p/primage
  * @author Barbushin Sergey http://linkedin.com/in/barbushin
  *
  */
