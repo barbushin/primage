@@ -1,4 +1,4 @@
-Primage - PHP library that works like a gateway for images resizing and watermarking
+Primage - PHP library that works like a proxy for realtime images resizing and watermarking (+ cache support)
 
 Project site:
 https://github.com/barbushin/primage
