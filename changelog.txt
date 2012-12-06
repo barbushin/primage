@@ -1,0 +1,14 @@
+Release 1.1
+
+* Added: .htaccess caching headers in public images dir of example
+* Added: .htaccess deny from all in private images dir of example
+* Added: send to stdout attribute in Primage_Proxy_Controller_Abstract::dispatch()
+
+Release 1.0
+
+* Added: Primage/Proxy - share images with auto resizing and watermarking
+* Added: Example of using Primage/Proxy with cache based on Apache .htaccess
+
+Beta 0.1
+
+* Added: Primage class with image resizing, adding watermark, rotation and some other effects
